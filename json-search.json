@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Martin Luther King Jr.",
+    "sex": "m",
+    "born": "1/15/1929",
+    "died": "4/4/1968",
+    "father": "Martin Luther King Sr.",
+    "mother": "Alberta Williams King"
+  },
+  {
+    "name": "Stan Lee",
+    "sex": "m",
+    "born": "12/28/1922",
+    "died": "11/12/2018",
+    "father": "Jack Lieber",
+    "mother": "Celia Lieber"
+  },
+  {
+    "name": "Billy Graham",
+    "sex": "m",
+    "born": "11/7/1918",
+    "died": "2/21/2018",
+    "father": "William Franklin Graham Sr.",
+    "mother": "Morrow Graham"
+  },
+  {
+    "name": "George H. W. Bush",
+    "sex": "m",
+    "born": "6/12/1924",
+    "died": "11/30/2018",
+    "father": "Prescott Bush",
+    "mother": "Dorothy Walker Bush"
+  },
+  {
+    "name": "Michael Jackson",
+    "sex": "m",
+    "born": "8/29/1958",
+    "died": "6/25/2009",
+    "father": "Joe Jackson",
+    "mother": "Katherine Jackson"
+  }
+]
